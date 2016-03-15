@@ -1,5 +1,7 @@
+<font color="red">
 # Basic Literasee
 ## Mathematics typesetting
+</font>
 
 ---
 
@@ -29,7 +31,7 @@ $$
 
 ===
 
-Stokes Theorem: 
+Stokes Theorem:
 
 $$
 \int\_{\partial \Omega} = \int\_\Omega d\omega
