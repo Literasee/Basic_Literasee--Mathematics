@@ -1,7 +1,5 @@
 <style type="text/css">
-.custom {
 	color: white;
-}
 </style>
 
 # Basic Literasee
