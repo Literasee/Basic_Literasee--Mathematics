@@ -1,5 +1,11 @@
-# <p style="color:white"> Basic Literasee </p>
-## <p style="color:white"> Mathematics typesetting </p>
+<style type="text/css">
+.custom {
+	color: white;
+}
+</style>
+
+# Basic Literasee
+## Mathematics typesetting
 
 
 ---
