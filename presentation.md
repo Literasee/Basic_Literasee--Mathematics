@@ -1,9 +1,9 @@
-<font color="red">
+<p style="color:red">
 
 # Basic Literasee
 ## Mathematics typesetting
 
-</font>
+</p>
 
 ---
 
