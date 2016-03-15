@@ -1,5 +1,7 @@
 <style type="text/css">
+.body {
 	color: white;
+}
 </style>
 
 # Basic Literasee
