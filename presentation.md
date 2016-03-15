@@ -1,9 +1,6 @@
-<p style="color:red">
+# <p style="color:white"> Basic Literasee </p>
+## <p style="color:white"> Mathematics typesetting </p>
 
-# Basic Literasee
-## Mathematics typesetting
-
-</p>
 
 ---
 
