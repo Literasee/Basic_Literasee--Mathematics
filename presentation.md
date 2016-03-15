@@ -1,9 +1,5 @@
-<font color="red">
-
-# Basic Literasee
+# Basic <font color="red"> Literasee </font>
 ## Mathematics typesetting
-
-</font>
 
 ---
 
