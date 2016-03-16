@@ -1,5 +1,5 @@
 <style type="text/css">
-.body {
+body {
 	color: white;
 }
 </style>
