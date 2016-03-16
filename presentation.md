@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://raw.githubusercontent.com/hakimel/reveal.js/master/css/theme/black.css" id="theme">
-
 # Basic Literasee
 ## Mathematics typesetting
 
