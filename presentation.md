@@ -1,6 +1,8 @@
+<script type="text/template">
+<.slide: text=white>
 # Basic Literasee
 ## Mathematics typesetting
-
+</script>
 
 ---
 
