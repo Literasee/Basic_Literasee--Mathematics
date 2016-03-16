@@ -20,8 +20,8 @@ This will only display in the Notes window.
 - <p class="fragment">The cube root of $x$ is denoted $\sqrt[3]{x}$.</p>
 - <p class="fragment">Let $x\_i = i$, then $\sum\_{i=1}^n x\_{i} = x\_1 + \cdots + x\_n = n(n-1)/2$.</p>
 - <p class="fragment">By L'Hôpital's rule, $\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2$.</p>
-- <p class="fragment">The Continuum Hypothesis states: $2^{\aleph\_0} = \aleph\_1$.</p>
-- <p class="fragment">$\left( \sum\_{k=1}^n a\_k b\_k \right)^2 \leq \left( \sum\_{k=1}^n a\_k^2 \right) \left( \sum\_{k=1}^n b\_k^2 \right)$.</p>
+- <p class="fragment">The Continuum Hypothesis implies: $2^{\aleph\_0} = \aleph\_1$.</p>
+- <p class="fragment">Cauchy-Schwarz Inequality: $\left( \sum\_{k=1}^n a\_k b\_k \right)^2 \leq \left( \sum\_{k=1}^n a\_k^2 \right) \left( \sum\_{k=1}^n b\_k^2 \right)$.</p>
 
 ---
 
