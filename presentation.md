@@ -12,6 +12,8 @@
 - Supported in both Report and Presentation formats.
 - Accessible via standard [LaTeX](https://www.latex-project.org/) markup.
 
+Note:
+This will only display in the Notes window.
 
 ---
 
