@@ -11,9 +11,9 @@ particular result, because Literasee is [GitHub](https://www.github.com) based, 
 
 The cube root of $x$ is denoted $\sqrt[3]{x}$.
 
-Let $x\_i = i$, then $\sum\_{i=1}^n x\_{i} = x\_1 + \cdots + x\_n = n(n-1)/2$.
+Let $x\_i = i$, then $\sum\_{i=1}^n x\_{i} = x\_1 + x\_2 + \cdots + x\_n = n(n-1)/2$.
 
-By L'Hôpital's rule: $\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2$.
+By L'Hôpital's rule, $\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2$.
 
 The Continuum Hypothesis states: $2^{\aleph\_0} = \aleph\_1$.
 
