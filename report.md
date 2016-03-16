@@ -11,13 +11,13 @@ particular result, because Literasee is [GitHub](https://www.github.com) based, 
 
 The cube root of $x$ is denoted $\sqrt[3]{x}$.
 
-Let $x\_i = i$, then $\sum\_{i=1}^n x\_{i} = x\_1 + x\_2 + \cdots + x\_n = n(n-1)/2$.
+Let $x\_i = i$, then $\sum\_{i=1}^n x\_{i} = x\_1 + \cdots + x\_n = n(n-1)/2$.
 
-Using L'Hôpital's rule one can easily show that $\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2$.
+By L'Hôpital's rule: $\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2$.
 
-The Continuum Hypothesis (assuming the Axiom of Choice) can be stated as: $2^{\aleph\_0} = \aleph\_1$.
+The Continuum Hypothesis states: $2^{\aleph\_0} = \aleph\_1$.
 
-The Cauchy-Schwarz inequality states $\left( \sum_{k=1}^n a\_k b\_k \right)^2 \leq \left( \sum\_{k=1}^n a\_k^2 \right) \left( \sum\_{k=1}^n b\_k^2 \right)$
+The Cauchy-Schwarz inequality states $\left( \sum_{k=1}^n a\_k b\_k \right)^2 \leq \left( \sum\_{k=1}^n a\_k^2 \right) \left( \sum\_{k=1}^n b\_k^2 \right)$.
 
 
 ## Displaystyle (left- and center-justified) math:
