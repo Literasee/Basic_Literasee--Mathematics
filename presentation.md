@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="css/theme/black.css" id="theme">
+
 # Basic Literasee
 ## Mathematics typesetting
 
