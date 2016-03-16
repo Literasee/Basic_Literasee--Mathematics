@@ -4,8 +4,10 @@
 
 ---
 
+## Mathematics typesetting
+
 - [Literasee](http://literasee.io) supports math typesetting with [MathJax](https://www.mathjax.org/).
-- Profesional quality typeset mathematics as part of any web-based content one produces!
+- Professional quality typeset mathematics as part of any web-based content one produces!
 - Supported in both Report and Presentation formats.
 - Accessible via standard [LaTeX](https://www.latex-project.org/) markup.
 
@@ -22,7 +24,7 @@
 
 ## Centered math:
 
-* Basic limit notation:
+### Basic limit notation:
 
 $$
 \lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2
@@ -30,7 +32,7 @@ $$
 
 ===
 
-Stokes Theorem:
+### Stokes Theorem:
 
 $$
 \int\_{\partial \Omega} = \int\_\Omega d\omega
@@ -38,7 +40,7 @@ $$
 
 ===
 
-Three parameter logistic IRT model:
+### Three parameter logistic IRT model:
 
 $$
 p\_i (\theta) = c\_i + {1 - c\_i \over 1 + e^{-a\_i(\theta - b\_i)}}
