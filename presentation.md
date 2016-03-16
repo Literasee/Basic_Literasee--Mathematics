@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/theme/black.css" id="theme">
+<link rel="stylesheet" href="https://github.com/hakimel/reveal.js/blob/master/css/theme/black.css" id="theme">
 
 # Basic Literasee
 ## Mathematics typesetting
