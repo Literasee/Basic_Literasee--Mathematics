@@ -198,7 +198,7 @@ $\mathscr{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
 ===
 
-### Math "fraktur" (old German) letters
+### Math ``fraktur" (old German) letters
 
 $\mathfrak{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
