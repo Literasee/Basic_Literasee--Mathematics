@@ -33,6 +33,12 @@ This will only display in the Notes window.
 
 ### Basic limit notation:
 
+```
+$$
+\lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2
+$$
+```
+
 $$
 \lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2
 $$
