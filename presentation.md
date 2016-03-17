@@ -103,7 +103,7 @@ $$f(x) = \begin{cases}1 & -1 \le x < 0 \\\\ \frac{1}{2} & x = 0 \\\\ 1 - x^2 & \
 
 ===
 
-#### Quadratic equation
+### Quadratic equation
 
 When $a \ne 0$, there are two solutions to the quadratic equation $ax^2 + bx + c = 0$ and they are
 
@@ -111,7 +111,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 ===
 
-#### Golden Ratio
+### Golden Ratio
 
 The _Golden Ratio_ is an irrational number equal to $\frac{1 + \sqrt{5}}{2}$. The ratio, often denoted as $\varphi$, can be expressed as a continued fraction as follows:
 
@@ -119,7 +119,7 @@ $$\bbox[10px,gold,border:2px solid black]{\textrm{Golden Ratio} \equiv \varphi=1
 
 ===
 
-#### Normal distribution
+### Normal distribution
 
 The probability density of the normal distribution with mean $\mu$ and standard deviation $\sigma$, denoted $\mathcal{N}(\mu, \sigma)$, is given by:
 
@@ -129,7 +129,7 @@ $$
 
 ===
 
-#### Dot product
+### Dot product
 
 Let $\mathbf{x}, \mathbf{y} \in \mathbb{R}^n$, then the _dot product_ of $\mathbf{x}$ and $\mathbf{y}$ is
 
@@ -147,11 +147,17 @@ with $\mathbf{x}$.
 
 ===
 
-Bulletin Board font: $\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+### Bulletin Board font
+
+$\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
 ===
 
-Math bold font: $\mathbf{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
+### Math bold font
+
+$\mathbf{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+$\mathbf{abcdefghijklmnopqrstuvwxyz}$
 
 ===
 
