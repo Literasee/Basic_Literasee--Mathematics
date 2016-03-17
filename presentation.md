@@ -155,30 +155,51 @@ $\mathbb{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
 ### Math bold font
 
-$\mathbf{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+$\mathbf{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
 $\mathbf{abcdefghijklmnopqrstuvwxyz}$
 
 ===
 
-Math typewriter font: $\mathtt{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
+### Math typewriter font
+
+$\mathtt{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+$\mathbf{abcdefghijklmnopqrstuvwxyz}$
 
 ===
 
-Math sans-serif font: $\mathsf{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
+### Math sans-serif font
+
+$\mathsf{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+$\mathsf{abcdefghijklmnopqrstuvwxyz}$
+
 
 ===
 
-Math Roman font: $\mathrm{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
+### Math Roman font
+
+$\mathrm{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+$\mathrm{abcdefghijklmnopqrstuvwxyz}$
 
 ===
 
-Math calligraphic letters: $\mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+### Math calligraphic letters
+
+$\mathcal{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
 ===
 
-Math script letters: $\mathscr{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+### Math script letters
+
+$\mathscr{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
 
 ===
 
-Math "fraktur" (old German) letters: $\mathfrak{ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz}$
+### Math "fraktur" (old German) letters
+
+$\mathfrak{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+
+$\mathfrak{abcdefghijklmnopqrstuvwxyz}$
