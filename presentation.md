@@ -15,7 +15,9 @@ This will only display in the Notes window.
 
 ---
 
-## In-line math
+## In-line Math
+
+===
 
 - <p class="fragment">The cube root of $x$ is denoted $\sqrt[3]{x}$.</p>
 - <p class="fragment">Let $x\_i = i$, then $\sum\_{i=1}^n x\_{i} = x\_1 + \cdots + x\_n = n(n-1)/2$.</p>
@@ -25,7 +27,7 @@ This will only display in the Notes window.
 
 ---
 
-## Centered math
+## Centered Math
 
 ===
 
