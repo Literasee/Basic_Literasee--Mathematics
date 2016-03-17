@@ -25,7 +25,7 @@ This will only display in the Notes window.
 
 ---
 
-## Centered math:
+## Centered math
 
 ===
 
@@ -50,3 +50,13 @@ $$
 $$
 p\_i (\theta) = c\_i + {1 - c\_i \over 1 + e^{-a\_i(\theta - b\_i)}}
 $$
+
+===
+
+### A Cross Product Formula
+
+$$\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
+\mathbf{i} & \mathbf{j} & \mathbf{k} \\\\
+\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\\\
+\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0
+\end{vmatrix}  $$
