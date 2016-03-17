@@ -27,6 +27,8 @@ This will only display in the Notes window.
 
 ## Centered math:
 
+===
+
 ### Basic limit notation:
 
 $$
