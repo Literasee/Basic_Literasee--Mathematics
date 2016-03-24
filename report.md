@@ -32,7 +32,7 @@ $$
 \lim\_{n \rightarrow \infty} \frac{2n + 5}{n} = 2
 $$
 
-#### Stokes Theorem:
+#### Stokes Theorem
 
 $$
 \int\_{\partial \Omega} = \int\_\Omega d\omega
